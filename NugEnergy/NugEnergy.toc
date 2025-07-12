@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: NugEnergy
+## Notes: Energy (Rage) monitor
+## Author: d87
+## SavedVariables: NugEnergyDB
+embeds.xml
+NugEnergy.lua
